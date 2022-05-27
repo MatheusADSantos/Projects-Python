@@ -1,15 +1,14 @@
 # Projects-Python
-##Some Automation with Python
-
-##Get Starte: 
+## Some Automation with Python
+## Get Starte: 
 
 ###**How to set Python3 as a default python version on MacOS?**
 https://dev.to/malwarebo/how-to-set-python3-as-a-default-python-version-on-mac-4jjf#:~:text=Open%20the%20terminal%20(bash%20or,https%3A%2F%2Fbrew.sh).&text=Look%20where%20it%20is%20installed.&text=Change%20the%20default%20python%20symlink,want%20to%20use%20from%20above.
 
-##**https://mnzel.medium.com/how-to-activate-python-venv-on-a-mac-a8fa1c3cb511**
+## **https://mnzel.medium.com/how-to-activate-python-venv-on-a-mac-a8fa1c3cb511**
 https://mnzel.medium.com/how-to-activate-python-venv-on-a-mac-a8fa1c3cb511
 
-###**- Instal Venv**
+### **- Instal Venv**
 https://www.youtube.com/watch?v=m1TYpvIYm74
 
 mkdir proeject
